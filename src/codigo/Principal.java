@@ -16,7 +16,6 @@ public class Principal {
     
     public static void generarLexer(String ruta){
         File archivo= new File(ruta);
-        JFlex.Main.generate(archivo);
-        
+        //jflex.Main.generate(archivo);
     }
 }
