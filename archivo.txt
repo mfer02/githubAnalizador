@@ -1,1 +1,1 @@
-aaaa
+if(num1 == num2){ sum+=1; }
